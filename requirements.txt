@@ -1,0 +1,17 @@
+# Core libraries
+transformers>=4.35.0
+datasets>=2.8.0
+accelerate>=0.22.0
+peft>=0.4.0
+bitsandbytes>=0.41.0
+torch>=2.0.0
+sentencepiece
+tokenizers
+
+# Evaluation & utilities
+evaluate
+scikit-learn
+pandas
+numpy
+tqdm
+huggingface_hub
