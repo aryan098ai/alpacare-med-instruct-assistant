@@ -20,7 +20,7 @@
 └── 📄 [human_eval_responses.csv](human_eval/human_eval_responses.csv)  
 
 📂 [adapters](adapters)  
-└── # add LoRA adapter zip here  
+└── [alpacare_lora_adapter.zip] (alphacare_lora_adapter.zip) 
 
 📂 [notebooks](notebooks)  
 ├── 📄 [colab-finetune.ipynb](notebooks/colab-finetune.ipynb)  
